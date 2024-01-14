@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End , Back End, DevOps , Cloud Computing
 - 🌱 I’m currently learning DevOps
   
-- 📫 How to reach me Insta id - itsme__atul , youtube - @gameofcodewithatul
+- 📫 How to reach me Insta id - itsme__atul , youtube - https://www.youtube.com/channel/UC2au90EWzPufp_2mSfkb7vA
   
 - ⚡ Put your phone down and work on your dream , the pain of discipline won't kill you but the pain of regrets will.
 
