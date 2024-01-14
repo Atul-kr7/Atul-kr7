@@ -1,7 +1,7 @@
 -
   🥂 Believe in learning -> sharing -> teaching
 - ⚡ Put your phone down and work on your dream , the pain of discipline won't kill you but the pain of regrets will.
--
+
 - 👋 Hi, I’m @Atul-kr7 
 - 👀 I’m interested in Front End , Back End, DevOps , Cloud Computing
 - 🌱 I’m currently learning DevOps
