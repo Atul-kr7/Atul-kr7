@@ -11,7 +11,7 @@
 -    Youtube - https://www.youtube.com/channel/UC2au90EWzPufp_2mSfkb7vA
 -    Linkedin - https://www.linkedin.com/in/atul-kumar23/
   
--
+
 
 <!---
 Atul-kr7/Atul-kr7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
