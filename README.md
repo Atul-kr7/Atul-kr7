@@ -7,9 +7,10 @@
 - 🌱 I’m currently learning DevOps
   
 - 📫 How to reach me
-  -    Insta id - [itsme__atul](https://www.instagram.com/itsme__atul/) 
-  -    Youtube - https://www.youtube.com/channel/UC2au90EWzPufp_2mSfkb7vA
-  -    Linkedin - https://www.linkedin.com/in/atul-kumar23/
+  -
+  -    Youtube - https://www.youtube.com/@gameofcodes3832
+  - 
+  -   
   
 
 
