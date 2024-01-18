@@ -7,10 +7,9 @@
 - 🌱 I’m currently learning DevOps
   
 - 📫 How to reach me
-  -
+  
   -    Youtube - https://www.youtube.com/@gameofcodes3832
-  - 
-  -   
+  
   
 
 
