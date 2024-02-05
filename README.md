@@ -1,5 +1,5 @@
 -
-  🥂 Believe in learning -> sharing -> teaching
+  🥂 Believe in learning -> sharing
 - ⚡ Put your phone down and work on your dream , the pain of discipline won't kill you but the pain of regrets will.
 
 - 👋 Hi, I’m @Atul-kr7 
