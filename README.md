@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Atul Kumar
 - 👀 I’m interested in Front End , Back End, DevOps , Cloud Computing
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevSecOps
   
 - 📫 How to reach me
   
